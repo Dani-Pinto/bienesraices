@@ -1,0 +1,11 @@
+# Ignorar carpeta node_modules
+node_modules/
+
+# Ignorar carpeta build
+src/
+
+# Ignorar archivo package-lock.json
+package-lock.json
+
+# Ignorar archivo .DS_Store
+.DS_Store
